@@ -6,4 +6,4 @@ module crypto/sha512
 module testing
 module messages
 
-go 1.16.3
+go
