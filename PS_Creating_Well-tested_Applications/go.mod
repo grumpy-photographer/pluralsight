@@ -1,7 +1,1 @@
-module gotesting
-module fmt
-module crypto/sha1
-module crypto/sha256
-module crypto/sha512
-module testing
-module messages
+module gotesting fmt crypto/sha1 crypto/sha256 crypto/sha512 testing messages
