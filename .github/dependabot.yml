@@ -24,7 +24,7 @@ updates:
     commit-message:
       prefix: "go"
   - package-ecosystem: "gomod"
-    directory: "/PS_Creating_Well-tested_Applications/Intro_to_Testing/code/"
+    directory: "/PS_Creating_Well-tested_Applications/Intro_to_Testing/"
     schedule:
       interval: "daily"
     commit-message:
