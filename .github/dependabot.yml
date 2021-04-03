@@ -12,7 +12,19 @@ updates:
     commit-message:
       prefix: "pip"
   - package-ecosystem: "gomod"
-    directory: "/PS_Creating_Well-tested_Applications/"
+    directory: "/PS_Creating_Well-tested_Applications/Benchmarking_and_Profiling/code/"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "go"
+  - package-ecosystem: "gomod"
+    directory: "/PS_Creating_Well-tested_Applications/Creating_and_Running_Tests/code/"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "go"
+  - package-ecosystem: "gomod"
+    directory: "/PS_Creating_Well-tested_Applications/Intro_to_Testing/code/"
     schedule:
       interval: "daily"
     commit-message:
