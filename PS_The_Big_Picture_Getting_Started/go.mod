@@ -1,1 +1,3 @@
-fmt
+module fmt
+
+go
