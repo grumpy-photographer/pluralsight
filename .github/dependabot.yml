@@ -6,43 +6,43 @@
 version: 2
 updates:
   - package-ecosystem: "pip" # See documentation for possible values
-    directory: "/PS_Deploying_Machine_Learning_Solutions/" # Location of package manifests
+    directory: "/Deploying_Machine_Learning_Solutions/" # Location of package manifests
     schedule:
       interval: "daily"
     commit-message:
       prefix: "pip"
   - package-ecosystem: "gomod"
-    directory: "/PS_Creating_Well-tested_Applications/Benchmarking_and_Profiling/code/"
+    directory: "/Creating_Well-tested_Applications/Benchmarking_and_Profiling/code/"
     schedule:
       interval: "daily"
     commit-message:
       prefix: "go"
   - package-ecosystem: "gomod"
-    directory: "/PS_Creating_Well-tested_Applications/Creating_and_Running_Tests/code/"
+    directory: "/Creating_Well-tested_Applications/Creating_and_Running_Tests/code/"
     schedule:
       interval: "daily"
     commit-message:
       prefix: "go"
   - package-ecosystem: "gomod"
-    directory: "/PS_Creating_Well-tested_Applications/Intro_to_Testing/"
+    directory: "/Creating_Well-tested_Applications/Intro_to_Testing/"
     schedule:
       interval: "daily"
     commit-message:
       prefix: "go"
   - package-ecosystem: "gomod"
-    directory: "/PS_The_Big_Picture_Getting_Started/"
+    directory: "/The_Big_Picture_Getting_Started/"
     schedule:
       interval: "daily"
     commit-message:
       prefix: "go"
   - package-ecosystem: "gomod"
-    directory: "/PS_The_Big_Picture_Getting_Started/code/"
+    directory: "/The_Big_Picture_Getting_Started/code/"
     schedule:
       interval: "daily"
     commit-message:
       prefix: "go"
   - package-ecosystem: "gomod"
-    directory: "/PS_The_Go_CLI_Playbook/code/"
+    directory: "/The_Go_CLI_Playbook/code/"
     schedule:
       interval: "daily"
     commit-message:
