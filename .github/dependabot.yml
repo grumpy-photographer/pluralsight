@@ -41,3 +41,9 @@ updates:
       interval: "daily"
     commit-message:
       prefix: "go"
+  - package-ecosystem: "gomod"
+    directory: "/PS_The_Go_CLI_Playbook/code/"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "go"
