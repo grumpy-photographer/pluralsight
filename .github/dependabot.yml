@@ -35,3 +35,21 @@ updates:
       interval: "daily"
     commit-message:
       prefix: "go"
+  - package-ecosystem: "gomod"
+    directory: "/PS_The_Big_Picture_Getting_Started/code/"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "go"
+  - package-ecosystem: "gomod"
+    directory: "/PS_The_Big_Picture_Getting_Started/code/controllers/"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "go"
+  - package-ecosystem: "gomod"
+    directory: "/PS_The_Big_Picture_Getting_Started/code/models"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "go"
