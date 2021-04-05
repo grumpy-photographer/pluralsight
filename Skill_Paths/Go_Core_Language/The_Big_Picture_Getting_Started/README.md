@@ -6,7 +6,7 @@ Go was created as an attempt to provide a single language that combined efficien
 
 <hr>
 
-Part of the [Go Core Language Path](https://app.pluralsight.com/paths/skill/go-core-language) | [GitHub]()
+Part of the [Go Core Language Path](https://app.pluralsight.com/paths/skill/go-core-language) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/Go_Core_Language)
 
 <br>
 
@@ -18,4 +18,4 @@ Go is one of the most exciting programming languages in the world today. It chal
 
 <hr>
 
-Part of the [Go Core Language Path](https://app.pluralsight.com/paths/skill/go-core-language) | [GitHub]()
+Part of the [Go Core Language Path](https://app.pluralsight.com/paths/skill/go-core-language) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/Go_Core_Language)

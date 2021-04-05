@@ -5,12 +5,15 @@
 
 version: 2
 updates:
+# pip
   - package-ecosystem: "pip" # See documentation for possible values
     directory: "/Deploying_Machine_Learning_Solutions/" # Location of package manifests
     schedule:
       interval: "daily"
     commit-message:
       prefix: "pip"
+
+# go
   - package-ecosystem: "gomod"
     directory: "/Creating_Well-tested_Applications/Benchmarking_and_Profiling/code/"
     schedule:
@@ -29,20 +32,21 @@ updates:
       interval: "daily"
     commit-message:
       prefix: "go"
+      
   - package-ecosystem: "gomod"
-    directory: "/The_Big_Picture_Getting_Started/"
+    directory: "/Skill_Paths/Go_Core_Language/The_Big_Picture_Getting_Started/"
     schedule:
       interval: "daily"
     commit-message:
       prefix: "go"
   - package-ecosystem: "gomod"
-    directory: "/The_Big_Picture_Getting_Started/code/"
+    directory: "/Skill_Paths/Go_Core_Language/The_Big_Picture_Getting_Started/code/"
     schedule:
       interval: "daily"
     commit-message:
       prefix: "go"
   - package-ecosystem: "gomod"
-    directory: "/The_Go_CLI_Playbook/code/"
+    directory: "/Skill_Paths/Go_Core_Language/The_Go_CLI_Playbook/code/"
     schedule:
       interval: "daily"
     commit-message:
