@@ -1,6 +1,5 @@
 ## [C Development Fundamentals](https://app.pluralsight.com/paths/skill/c-development-fundamentals)
 
-### Description
 C is a very powerful, widely used structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows and Linux, and many other complex programs like Oracle database, Git, Python interpreter, and more.
 
 As the primary language used in many scientific programming situations and forms (or is the basis for), the core of the modern languages Java and C++, and one of the most widely used languages in the world today, learning this foundational language will be beneficial whether you are an experienced programmer or just getting started.
