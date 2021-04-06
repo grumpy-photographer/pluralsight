@@ -1,8 +1,8 @@
-## [Deploying Machine Learnign Solutions](https://app.pluralsight.com/library/courses/deploying-machine-learning-solutions/description)
+## [Deploying Machine Learning Solutions](https://app.pluralsight.com/library/courses/deploying-machine-learning-solutions/description)
 by [Janani Ravi](https://app.pluralsight.com/profile/author/janani-ravi)
 
 Machine Learning is exploding in popularity, but serious early warning signs are emerging around the performance of ML models in production. In this course, Deploying Machine Learning Solutions you will gain the ability to identify reasons why models might be under-performing in production after doing just fine in training and testing, and ways to mitigate this worrying phenomenon. First, you will learn how training-serving skew, concept drift, and overfitting are different causes of model underperformance, and how they can be mitigated by post-deployment monitoring. Next, you will discover how ML models can be deployed, that is made available on HTTP endpoints, using Flask, the popular Python web-serving framework. You will also see how you can deploy models to serverless environments such as Google Cloud Functions Finally, you will work with platform-specific machine learning services such as Google AI Platform and Amazon SageMaker for model deployment. When you’re finished with this course, you will have the skills and knowledge to identify issues with models that have been deployed but are not performing to expectations, as well as how to implement deployment using both on-prem and cloud infrastructure.
 
 <hr>
 
-Part of the [Machine Learning Literacy Path](https://app.pluralsight.com/paths/skills/machine-learning-literacy) | [GitHub]()
+Part of the [Machine Learning Literacy Path](https://app.pluralsight.com/paths/skills/machine-learning-literacy) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/Machine_Learning_Literacy)
