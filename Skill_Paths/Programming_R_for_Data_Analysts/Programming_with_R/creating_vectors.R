@@ -13,7 +13,12 @@ length(price)
 str(price)
 
 #names
-price2 <- c("apple" = 1.3, "cookie" = 2, "lemon" = 0.5, "pizza" = 9)
+price2 <- c(
+  "apple" = 1.3,
+  "cookie" = 2,
+  "lemon" = 0.5,
+  "pizza" = 9
+)
 price2
 
 names(price) <- product

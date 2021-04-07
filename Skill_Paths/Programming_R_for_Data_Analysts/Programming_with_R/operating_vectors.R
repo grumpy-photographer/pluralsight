@@ -4,7 +4,8 @@ full_price <- price
 quantity <- c(2, 6, 3, 4)
 discount_value <- c(0, 0.15, 0, 0.25)
 
-total_basket_value <- (full_price - (full_price * discount_value)) * quantity
+total_basket_value <-
+  (full_price - (full_price * discount_value)) * quantity
 total_basket_value
 
 #logical operations
