@@ -6,4 +6,4 @@ Context is important when approaching a language that's been around as long as C
 
 <hr>
 
-Part of the [C Development Fundamentals Path](https://app.pluralsight.com/paths/skills/c-development-fundamentals) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/C_Development_Fundamentals_Path)
+Part of the [C Development Fundamentals Path](https://app.pluralsight.com/paths/skills/c-development-fundamentals) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/C_Development_Fundamentals)
