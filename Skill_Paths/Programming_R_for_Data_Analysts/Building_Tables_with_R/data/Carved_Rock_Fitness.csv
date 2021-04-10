@@ -1,0 +1,21 @@
+Date,Customer_ID,Retail_Purchases,Membership_Status,Class_Attendance,Age_Group,Gender,Zip 
+6/10/2010,H120,Climbing Shoes,0,0,18-24,Female,29004
+6/11/2010,H121,Racquet Ball ,1,1,25-35,Male,29003
+6/12/2010,H122,Kayak,1,2,36-45,Male,29002
+6/13/2010,H123,Backpack,1,2,18-24,Male,29004
+6/14/2010,H124,Climbing Shoes,0,1,25-35,Female,29002
+6/15/2010,H125,Racquet Ball ,0,0,36-45,Female,29002
+6/16/2010,H126,Kayak,0,0,18-24,Female,29002
+6/17/2010,H127,Backpack,0,0,25-35,Female,29002
+6/18/2010,H128,Climbing Shoes,1,1,36-45,Male,29004
+6/19/2010,H129,Racquet Ball ,1,1,18-24,Male,29003
+6/20/2010,H130,Kayak,1,2,25-35,Male,29002
+6/21/2010,H131,Backpack,1,2,36-45,Male,29004
+6/22/2010,H132,Backpack,1,2,18-24,Male,29003
+6/23/2010,H133,Kayak,1,1,25-35,Female,29002
+6/24/2010,H134,Climbing Shoes,1,2,36-45,Female,29004
+6/25/2010,H135,Racquet Ball ,0,0,18-24,Female,29003
+6/26/2010,H136,Kayak,0,0,18-24,Female,29002
+6/27/2010,H137,Backpack,0,0,18-24,Male,29003
+6/28/2010,H138,Kayak,0,2,18-24,Male,29003
+6/29/2010,H139,Climbing Shoes,1,0,36-45,Female,29004
