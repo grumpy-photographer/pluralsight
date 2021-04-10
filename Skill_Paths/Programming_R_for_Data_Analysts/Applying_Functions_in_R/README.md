@@ -8,4 +8,4 @@ The functional approach to programming is something that makes R unique and powe
 
 ***
 
-Part of the [Programming R for Data Analysts](https://app.pluralsight.com/paths/skills/programming-r-for-data-analysts) | [GitHub]()
+Part of the [Programming R for Data Analysts](https://app.pluralsight.com/paths/skills/programming-r-for-data-analysts) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/Programming_R_for_Data_Analysts)
