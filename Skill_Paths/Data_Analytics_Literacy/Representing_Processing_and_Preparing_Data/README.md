@@ -1,0 +1,9 @@
+## [Representing Processing and Preparing Data](https://app.pluralsight.com/library/courses/representing-processing-preparing-data/table-of-contents)
+by [Janani Ravi](https://app.pluralsight.com/profile/author/janani-ravi)
+
+### Description
+Data science and data modeling are fast emerging as crucial capabilities that every enterprise and every technologist must possess these days. As the process of actually constructing models becomes democratized, the general view is shifting toward using the right data and using the data right. In this course, Representing, Processing, and Preparing Data, you will gain the ability to correctly represent information from your domain as numeric data, and get it into a form where the full capabilities of models can be leveraged. First, you will learn how outliers and missing data can be dealt with in a theoretically sound manner. Next, you will discover how to use spreadsheets, programming languages and relational databases to work with your data. You will see the different types of data that you may deal with in the real world and how you can collect and integrate data to a common destination to eliminate silos. Finally, you will round out the course by working with visualization tools that allow every member of an enterprise to work with data and extract meaningful insights. When you are finished with this course, you will have the skills and knowledge to use the right data sources, cope with data quality issues and choose the right technologies to extract insights from your enterprise data.
+
+***
+
+Part of the [Data Analytics Literacy Path](https://app.pluralsight.com/paths/skill/data-analytics-literacy) | [GitHub]()

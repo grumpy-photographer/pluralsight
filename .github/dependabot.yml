@@ -10,6 +10,10 @@ updates:
     directory: "/Skill_Paths/Machine_Learning_Literacy/Deploying_Machine_Learning_Solutions/" # Location of package manifests
     schedule:
       interval: "daily"
+  - package-ecosystem: "pip" # See documentation for possible values
+    directory: "/Skill_Paths/Data_Analytics_Literacy/Representing_Processing_and_Preparing_Data/" # Location of package manifests
+    schedule:
+      interval: "daily"
 
 # go
   - package-ecosystem: "gomod"
