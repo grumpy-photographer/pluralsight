@@ -7,4 +7,4 @@ Connecting the dots between data from different sources is becoming the most sou
 
 ***
 
-Part of the [Data Analytics Literacy Path](https://app.pluralsight.com/paths/skill/data-analytics-literacy)
+Part of the [Data Analytics Literacy Path](https://app.pluralsight.com/paths/skill/data-analytics-literacy) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/Data_Analytics_Literacy)
