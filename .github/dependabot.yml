@@ -7,15 +7,11 @@ version: 2
 updates:
 # pip
   - package-ecosystem: "pip" # See documentation for possible values
-    directory: "/Skill_Paths/Machine_Learning_Literacy/Deploying_Machine_Learning_Solutions/" # Location of package manifests
+    directory: "/Skill_Paths/Machine_Learning_Literacy/" # Location of package manifests
     schedule:
       interval: "daily"
   - package-ecosystem: "pip" # See documentation for possible values
-    directory: "/Skill_Paths/Data_Analytics_Literacy/Representing_Processing_and_Preparing_Data/" # Location of package manifests
-    schedule:
-      interval: "daily"
-  - package-ecosystem: "pip"
-    directory: "/Skill_Paths/Data_Analytics_Literacy/Combining_and_Shaping_Data/"
+    directory: "/Skill_Paths/Data_Analytics_Literacy/" # Location of package manifests
     schedule:
       interval: "daily"
 
