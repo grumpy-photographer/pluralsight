@@ -13,7 +13,7 @@ idna==3.1
 chardet==4.0.0
 certifi==2020.12.5
 urllib3==1.26.4
-Flask==2.0.0
+Flask==2.0.1
 itsdangerous==2.0.1
 Jinja2==3.0.1
 MarkupSafe==2.0.1
