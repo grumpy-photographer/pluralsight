@@ -1,0 +1,9 @@
+## [Summarizing Data and Deducing Probabilities](https://app.pluralsight.com/library/courses/summarizing-data-deducing-probabilities/table-of-contents)
+by [Janani Ravi](https://app.pluralsight.com/profile/author/janani-ravi)
+
+### Description
+Data science and data modeling are fast emerging as crucial capabilities that every enterprise and every technologist must possess these days. Increasingly, different organizations are using the same models and the same modeling tools, so what differs is how those models are applied to the data. So, it is really important that you know your data well. In this course, Summarizing Data and Deducing Probabilities, you will gain the ability to summarize your data using univariate, bivariate, and multivariate statistics in a range of technologies. First, you will learn how measures of mean and central tendency can be calculated in Microsoft Excel and Python. Next, you will discover how to use correlations and covariances to explore pairwise relationships. You will then see how those constructs can be generalized to multiple variables using covariance and correlation matrices. You will understand and apply Bayes' Theorem, one of the most powerful and widely-used results in probability, to build a robust classifier. Finally, you will use Seaborn, a visualization library, to represent statistics visually.   When you are finished with this course, you will have the skills and knowledge to use univariate, bivariate, and multivariate descriptive statistics from Excel and Python in order to find relationships and calculate probabilities.
+
+***
+
+Part of the [Data Analytics Literacy Path](https://app.pluralsight.com/paths/skill/data-analytics-literacy) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/Data_Analytics_Literacy)

@@ -1,0 +1,74 @@
+
+
+= VLOOKUP($A2, Sheet3!$A$2:$B$265, 2, FALSE)
+
+= VLOOKUP($A2, Sheet3!$A$2:$C$265, 3, FALSE)
+
+= VLOOKUP($A2, Sheet3!$A$2:$D$265, 4, FALSE)
+
+
+= INDEX(Sheet3!$E$2:$E$265, MATCH($A2, Sheet3!$A$2:$A$265, 0))
+
+= INDEX(Sheet3!$F$2:$F$265, MATCH($A2, Sheet3!$A$2:$A$265, 0))
+
+= INDEX(Sheet3!$G$2:$G$265, MATCH($A2, Sheet3!$A$2:$A$265, 0))
+
+= INDEX(Sheet3!$H$2:$H$265, MATCH($A2, Sheet3!$A$2:$A$265, 0))
+
+
+Avg Rating = ROUND(AVERAGE(Sheet2!B1:B265), 2)
+Total Reviews = SUM(Sheet2!F2:F266)
+
+Avg Reviews per App  = E268 /COUNT(Sheet2!F2:F265)
+
+No of Free Apps  = COUNTIF(Sheet2!$H2:$H265, "Free")
+No of Paid Apps   = COUNTIF(Sheet2!$H2:$H265, "Paid")
+
+
+Produce Percentage By Year
+= ($C2 / SUMIF($B$2:$B$627, $B2, $C$2:$C$627)) * 100
+
+
+For the First row in the column  = C2
+Then for the next row- = SUM($C$2:C3) 
+
+Do this for Manhattan Mocha
+= C43
+= SUM($C$43:C44)
+
+The Split Bean
+= C84
+=SUM($C$84:C85)
+
+
+Enter the formula = RANK(C42,(C42,C83,C124),0)
+= RANK(C83,(C42,C83,C124),0)
+= RANK(C124,(C42,C83,C124),0)
+
+
+- Max Produce Value  = MAX(F2:F87) 
+- Type in State (above column) 
+- =INDEX(A2:F87,MATCH(J6,F2:F87,0),1)
+
+- Max Produce In Year 1999 = MAX(IF(G2:G87=G2,F2:F87))
+
+=INDEX(A2:F87,MATCH(J7,F2:F87,0),1)
+
+- Total Produce Value = SUM(F2:F87)
+- Average Produce Value = AVERAGE(F2:F87)
+
+Max Yield Per Colony  	= MAX(C2:C87)  
+= INDEX(A2:F87,MATCH(J11,C2:C87,0),1)
+
+Min Yield Per Colony  = MIN(C2:C87)     
+= INDEX(A2:C87,MATCH(J12,C2:C87,0),1) 
+
+Average Yield Per Colony  = AVERAGE(C2:C87) 
+
+ "Produce in lbs"
+Enter the Formula   = B2 * C2 
+= SUM(H2:H87)
+
+Total Produce In lbs = AGGREGATE(9,6,H2:H87)
+
+Average Produce =AGGREGATE(1,6,H2:H87)
