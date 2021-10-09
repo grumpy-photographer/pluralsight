@@ -6,4 +6,4 @@ Developing sophisticated machine learning solutions is a difficult task. There a
 
 <hr>
 
-Part of the [Building Machine Learning Solutions with TensorFlow Path](https://app.pluralsight.com/paths/skills/tensorflow) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/C_Development_Fundamentals)
+Part of the [Building Machine Learning Solutions with TensorFlow Path](https://app.pluralsight.com/paths/skills/tensorflow) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/Building_Machine_Learning_Solutions_with_Tensorflow)
