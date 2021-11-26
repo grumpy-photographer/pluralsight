@@ -1,3 +1,9 @@
+# [Building a Personal Budget Report with Python Collections and Iterables](https://app.pluralsight.com/projects/build-personal-budget-report-with-python-collections-and-iterables)
+
+In this project we're going to create different budget reports for our spending data using Python collections, iterables, and iterators.
+
+Author: [Sarah Holderness](https://app.pluralsight.com/profile/author/sarah-holderness)
+
 # Setup
 1. ### Install python
     Install python3 per your OS instructions.
