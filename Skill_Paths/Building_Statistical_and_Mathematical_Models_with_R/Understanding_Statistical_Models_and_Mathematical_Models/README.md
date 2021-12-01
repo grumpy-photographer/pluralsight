@@ -1,0 +1,9 @@
+## [Understanding Statistical Models and Mathematical Models](https://app.pluralsight.com/library/courses/understanding-statistical-mathematical-models/table-of-contents)
+by [Janani Ravi](https://app.pluralsight.com/profile/author/janani-ravi)
+
+### Description
+Data science and data modeling are fast emerging as crucial capabilities that every enterprise and every technologist and it us important to choose the type of model most appropriate to your use-case. In this course, Understanding Statistical Models and Mathematical Models, you will gain the ability to differentiate between mathematical models and statistical models and pick the right type of model for your scenario. First, you will learn the important characteristics of mathematical and statistical models and their applications. Next, you will discover how classic mathematical models find wide applicability in solving differential equations and modeling deterministic systems. Then, you will also learn how statistical models are great for modeling systems with randomness, using business-based use-cases from risk management, and the use of Monte Carlo simulations. Finally, you will round out your knowledge performing hypothesis testing using T-tests and Z-tests on real-world data. When you’re finished with this course, you will have the skills and knowledge to use powerful techniques from both mathematical and statistical modeling, including solving simple ordinary differential equations, the use of simulated annealing and classic hill climbing, as well as hypothesis testing and statistical tests such as the T-test.
+
+***
+
+Part of the [Building Statistical and Mathematical Models with R Path](https://app.pluralsight.com/paths/skills/building-statistical-and-mathematical-models-with-r) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/Building_Statistical_and_Mathematical_Models_with_R)
