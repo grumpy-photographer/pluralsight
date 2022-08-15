@@ -2,5 +2,5 @@ sklearn==0.0
 pandas==1.4.3
 requests==2.28.1
 joblib==1.1.0
-numpy==1.23.1
+numpy==1.23.2
 flask==2.2.2
