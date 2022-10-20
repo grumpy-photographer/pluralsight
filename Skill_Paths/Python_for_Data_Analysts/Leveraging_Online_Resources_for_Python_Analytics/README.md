@@ -1,0 +1,9 @@
+## [Leveraging Online Resources for Python Analytics](https://app.pluralsight.com/library/courses/leveraging-online-resources-python-analytics/table-of-contents)
+by [Janani Ravi](https://app.pluralsight.com/profile/author/janani-ravi)
+
+### Description
+As data science and data analytics become ever more popular and more specialized, the number and variety of tools and technologies out there can often seem overwhelming. In this course, Leveraging Online Resources for Python Analytics, you will gain the ability to find resources that can help you to correctly frame and solve your problem. First, you will survey some of the important visualization libraries, machine learning and deep learning frameworks, and cloud-based solutions out there. Next, you will discover the benefits of using a tool like BigML, which is a platform for building ML models that abstracts away much of the underlying complexity. Democratization of ML is an important trend today, and technologies like BigML are at the forefront of that trend. You will see, for instance, how BigML seamlessly integrates visualizations known as partial dependency plots, which combine the results of large numbers of ML predictions into an easily understandable form so that you can understand exactly what your ML model is doing. Finally, you will round out your knowledge by working with Google Colab, a free web-based way to build models. The models are hosted in Jupyter notebooks that reside on Google Drive and run on virtual machines in the cloud. When you’re finished with this course, you will have the skills and knowledge to quickly and efficiently identify valuable online resources and libraries that will help you on your journey as a data science practitioner.
+
+<hr>
+
+Part of the [Python for Data Analysts Path](https://app.pluralsight.com/paths/skills/python-for-data-analysts) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/Python_for_Data_Analysts)
