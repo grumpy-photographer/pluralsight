@@ -1,0 +1,10 @@
+## [Building Your First PyTorch Solution](https://app.pluralsight.com/library/courses/building-your-first-pytorch-solution/table-of-contents)
+by [Janani Ravi](https://app.pluralsight.com/profile/author/janani-ravi)
+
+### Description
+PyTorch is fast emerging as a popular choice for building deep learning models owing to its flexibility, ease-of-use, and built-in support for optimized hardware such as GPUs. Using PyTorch, you can build complex deep learning models, while still using Python-native support for debugging and visualization. In this course, Building Your First PyTorch Solution, you will gain the ability to get up and running by building your first regression and classification models. First, you will learn how to install PyTorch using pip and conda, and see how to leverage GPU support. Next, you will discover how to hand-craft a linear regression model using a single neuron, by defining the loss function yourself. You will then see how PyTorch optimizers can be used to make this process a lot more seamless. You will understand how different activation functions and dropout can be added to PyTorch neural networks. Finally, you will explore how to build classification models in PyTorch. You will round out the course by extending the PyTorch base module to implement a custom classifier. When you’re finished with this course, you will have the skills and knowledge to move on to installing PyTorch from scratch in a new environment and building models leveraging and customizing various PyTorch abstractions.
+
+
+<hr>
+
+Part of the [Building Deep Learning Solutions with PyTorch Path](https://app.pluralsight.com/paths/skills/building-deep-learning-solutions-with-pytorch) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/Building_Deep_Learning_Solutions_with_PyTorch)
