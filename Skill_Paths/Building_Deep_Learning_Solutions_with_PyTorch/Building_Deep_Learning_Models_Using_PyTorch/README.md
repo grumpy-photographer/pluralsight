@@ -1,0 +1,10 @@
+## [Building Deep Learning Models Using PyTorch](https://app.pluralsight.com/library/courses/pytorch-building-deep-learning-models/table-of-contents)
+by [Janani Ravi](https://app.pluralsight.com/profile/author/janani-ravi)
+
+### Description
+PyTorch is an open source, deep learning framework which is a popular alternative to TensorFlow and Apache MXNet. PyTorch APIs follow a Python-native approach which, along with dynamic graph execution, make it very intuitive to work with for Python developers and data scientists. In this course, Building Deep Learning Models Using PyTorch, you will learn to work with PyTorch and all the libraries that it has to offer, from first principles - starting with Torch tensors, dynamic computation graphs, and the autograd library, to compute gradients. You'll start off by understanding the basics of training a neural network, the forward and backward passes, and gradient computation. You will use these concepts to build simple neural networks to predict automobile prices, as well as who survived and who did not on the Titanic. Next, you'll move on to image classification using convolutional neural networks; you'll study the role of convolutional and pooling layers and the basic structure of a CNN, you'll then build a CNN to classify images from the Cifar-10 dataset. You'll also see how you can leverage the power of transfer learning by using pre-trained models for image classification. Finally, you'll get to work with recurrent neural networks for sequence data, seeing how the dynamic computation graph execution in PyTorch makes building RNNs very simple. You'll use RNNs with long memory cells to predict gender using baby names. At the end of this course, you will be comfortable using PyTorch libraries and APIs to leverage pre-trained models that PyTorch offers and also to build your own custom model for your specific use case.
+
+
+<hr>
+
+Part of the [Building Deep Learning Solutions with PyTorch Path](https://app.pluralsight.com/paths/skills/building-deep-learning-solutions-with-pytorch) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/Building_Deep_Learning_Solutions_with_PyTorch)
