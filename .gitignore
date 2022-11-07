@@ -3,5 +3,9 @@
 .RData
 .Ruserdata
 .ipynb_checkpoints
-*.jpg
+*.jpg 
+*.jpeg
 *.zip
+*_DS_Store
+*.tar.gz
+*mnist*
