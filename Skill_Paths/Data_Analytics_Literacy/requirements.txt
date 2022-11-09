@@ -3,6 +3,6 @@ numpy==1.23.4
 seaborn==0.12.1
 matplotlib==3.6.2
 plotly==5.11.0
-sklearn==0.0
+sklearn==0.0.post1
 statsmodels==0.13.5
 scipy==1.9.3
