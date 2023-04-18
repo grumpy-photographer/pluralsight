@@ -1,0 +1,9 @@
+## [Predictive Analytics with PyTorch](https://app.pluralsight.com/library/courses/predictive-analytics-pytorch/table-of-contents)
+by [Janani Ravi](https://app.pluralsight.com/profile/author/janani-ravi)
+
+### Description
+FPyTorch is fast emerging as a popular choice for building deep learning models owing to its flexibility, ease-of-use and built-in support for optimized hardware such as GPUs. In this course, Predictive Analytics with PyTorch, you will see how to build predictive models for different use-cases, based on the data you have available at your disposal, and the specific nature of the prediction you are seeking to make. First, you will start by learning how to build a linear regression model using sequential layers. Next, you will explore how to leverage recurrent neural networks (RNNs) to capture sequential relationships within text data. Then, you will apply such an RNN to the problem of generating names - a typical example of the kind of predictive model where deep learning far out-performs traditional natural language processing techniques. Finally, you will see how a recommendation system can be implemented in several different ways - relying on techniques such as content-based filtering, collaborative filtering, as well as hybrid methods. When you are finished with this course, you will have the skills to build, evaluate, and use a wide array of predictive models in PyTorch, ranging from regression, through classification, and finally extending to recommendation systems.. 
+
+<hr>
+
+Part of the [Building Deep Learning Solutions with PyTorch Path](https://app.pluralsight.com/paths/skills/building-deep-learning-solutions-with-pytorch) | [GitHub](https://github.com/nathayoung/pluralsight/tree/master/Skill_Paths/Building_Deep_Learning_Solutions_with_PyTorch)
