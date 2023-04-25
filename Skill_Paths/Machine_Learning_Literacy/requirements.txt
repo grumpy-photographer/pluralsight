@@ -1,5 +1,5 @@
 sklearn==0.0.post4
-pandas==2.0.0
+pandas==2.0.1
 requests==2.28.2
 joblib==1.2.0
 numpy==1.24.2
