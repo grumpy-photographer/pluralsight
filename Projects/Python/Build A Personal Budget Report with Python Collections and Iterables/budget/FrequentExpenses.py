@@ -2,8 +2,10 @@
 
 # Step 1
 from . import Expense
+
 # Step 4
 import collections
+
 # Step 7
 import matplotlib.pyplot as plt
 
@@ -21,7 +23,7 @@ for expense in expenses.list:
 # Step 4
 spending_counter = collections.Counter(spending_categories)
 
-#print(spending_counter)
+# print(spending_counter)
 
 # Step 5
 top5 = spending_counter.most_common(5)

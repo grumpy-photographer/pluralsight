@@ -4,8 +4,8 @@
 from . import Expense
 import matplotlib.pyplot as plt
 
-class BudgetList():
 
+class BudgetList:
     def __init__(self, budget):
         self.budget = budget
         self.sum_expenses = 0
@@ -14,10 +14,10 @@ class BudgetList():
         self.overages = []
 
     def __len__(self):
-        return(len(self.expenses) + len(self.overages))
+        return len(self.expenses) + len(self.overages)
 
     def append(self, item):
-        if (self.sum_expenses + item < self.budget):
+        if self.sum_expenses + item < self.budget:
             self.expenses.append(item)
             self.sum_expenses += item
         else:
@@ -34,6 +34,7 @@ class BudgetList():
             return self.iter_e.__next__()
         except StopIteration as stop:
             return self.iter_o.__next__()
+
 
 def main():
     myBudgetList = BudgetList(1200)
@@ -53,6 +54,7 @@ def main():
     ax.bar(labels, values, color=["green", "red", "blue"])
     ax.set_title("Your total expenses vs. total budget")
     plt.show()
+
 
 if __name__ == "__main__":
     main()
