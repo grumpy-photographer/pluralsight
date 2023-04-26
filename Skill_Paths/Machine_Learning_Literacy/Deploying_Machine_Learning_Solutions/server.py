@@ -4,10 +4,11 @@ import joblib
 
 app = Flask(__name__)
 
-model = joblib.load(open('models/pipe_clf_checkpoint.joblib', 'rb'))
-model_clf = model['pipeline_clf']
+model = joblib.load(open("models/pipe_clf_checkpoint.joblib", "rb"))
+model_clf = model["pipeline_clf"]
 
-@app.route('/api', methods=['POST'])
+
+@app.route("/api", methods=["POST"])
 def predict():
     data = request.get_json(force=True)
     prediction = model_clf.predict(data["x"])
@@ -15,5 +16,6 @@ def predict():
     output = "Class:" + str(prediction)
     return jsonify(output_text, output)
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     app.run(port=8080, debug=True)
