@@ -16,27 +16,27 @@ updates:
       interval: "daily"
 
 # go
-  - package-ecosystem: "gomod"
-    directory: "/Creating_Well-tested_Applications/Benchmarking_and_Profiling/code/"
-    schedule:
-      interval: "daily"
-  - package-ecosystem: "gomod"
-    directory: "/Creating_Well-tested_Applications/Creating_and_Running_Tests/code/"
-    schedule:
-      interval: "daily"
-  - package-ecosystem: "gomod"
-    directory: "/Creating_Well-tested_Applications/Intro_to_Testing/"
-    schedule:
-      interval: "daily"
-  - package-ecosystem: "gomod"
-    directory: "/Skill_Paths/Go_Core_Language/The_Big_Picture_Getting_Started/"
-    schedule:
-      interval: "daily"
-  - package-ecosystem: "gomod"
-    directory: "/Skill_Paths/Go_Core_Language/The_Big_Picture_Getting_Started/code/"
-    schedule:
-      interval: "daily"
-  - package-ecosystem: "gomod"
-    directory: "/Skill_Paths/Go_Core_Language/The_Go_CLI_Playbook/code/"
-    schedule:
-      interval: "daily"
+#  - package-ecosystem: "gomod"
+#    directory: "/Creating_Well-tested_Applications/Benchmarking_and_Profiling/code/"
+#    schedule:
+#      interval: "daily"
+#  - package-ecosystem: "gomod"
+#    directory: "/Creating_Well-tested_Applications/Creating_and_Running_Tests/code/"
+#    schedule:
+#      interval: "daily"
+#  - package-ecosystem: "gomod"
+#    directory: "/Creating_Well-tested_Applications/Intro_to_Testing/"
+#    schedule:
+#      interval: "daily"
+#  - package-ecosystem: "gomod"
+#    directory: "/Skill_Paths/Go_Core_Language/The_Big_Picture_Getting_Started/"
+#    schedule:
+#      interval: "daily"
+#  - package-ecosystem: "gomod"
+#    directory: "/Skill_Paths/Go_Core_Language/The_Big_Picture_Getting_Started/code/"
+#    schedule:
+#      interval: "daily"
+#  - package-ecosystem: "gomod"
+#    directory: "/Skill_Paths/Go_Core_Language/The_Go_CLI_Playbook/code/"
+#    schedule:
+#      interval: "daily"
