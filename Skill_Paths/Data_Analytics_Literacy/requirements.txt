@@ -2,7 +2,7 @@ pandas==2.1.1
 numpy==1.25.2
 seaborn==0.12.2
 matplotlib==3.8.0
-plotly==5.17.0
+plotly==5.18.0
 sklearn==0.0.post9
 statsmodels==0.14.0
 scipy==1.11.3
