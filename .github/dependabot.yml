@@ -1,42 +1,9 @@
-# To get started with Dependabot version updates, you'll need to specify which
-# package ecosystems to update and where the package manifests are located.
-# Please see the documentation for all configuration options:
-# https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
-
 version: 2
 updates:
-# pip
-  - package-ecosystem: "pip" # See documentation for possible values
-    directory: "/Skill_Paths/Machine_Learning_Literacy/" # Location of package manifests
+  - package-ecosystem: "pip"
+    directory: "/"
     schedule:
       interval: "daily"
-  - package-ecosystem: "pip" # See documentation for possible values
-    directory: "/Skill_Paths/Data_Analytics_Literacy/" # Location of package manifests
-    schedule:
-      interval: "daily"
-
-# go
-#  - package-ecosystem: "gomod"
-#    directory: "/Creating_Well-tested_Applications/Benchmarking_and_Profiling/code/"
-#    schedule:
-#      interval: "daily"
-#  - package-ecosystem: "gomod"
-#    directory: "/Creating_Well-tested_Applications/Creating_and_Running_Tests/code/"
-#    schedule:
-#      interval: "daily"
-#  - package-ecosystem: "gomod"
-#    directory: "/Creating_Well-tested_Applications/Intro_to_Testing/"
-#    schedule:
-#      interval: "daily"
-#  - package-ecosystem: "gomod"
-#    directory: "/Skill_Paths/Go_Core_Language/The_Big_Picture_Getting_Started/"
-#    schedule:
-#      interval: "daily"
-#  - package-ecosystem: "gomod"
-#    directory: "/Skill_Paths/Go_Core_Language/The_Big_Picture_Getting_Started/code/"
-#    schedule:
-#      interval: "daily"
-#  - package-ecosystem: "gomod"
-#    directory: "/Skill_Paths/Go_Core_Language/The_Go_CLI_Playbook/code/"
-#    schedule:
-#      interval: "daily"
+    commit-message:
+      prefix: "fix"
+      include: "scope"
